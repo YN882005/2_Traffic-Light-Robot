@@ -2,7 +2,7 @@
 
 # Project(2): Traffic Light Robot
 
-# How to such project:
+# How to Build such project:
 State machine: Control state transitions in nextState() to cycle strictly from Green to Yellow to Red to Green.
 
 Bitwise flags: Manipulate status modes (NIGHT, BUSY, BLINK_ON) using custom shift macros (SET_BIT, CLR_BIT, TOGGLE_BIT, READ_BIT).

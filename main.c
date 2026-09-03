@@ -1,4 +1,4 @@
-/*Name: Youssef Nasser Farouk Elsayed Mohamed Kandiel - G9*/
+/*Name: Youssef Nasser Farouk Elsayed Mohamed Kandiel*/
 
 #include <stdio.h>
 #include <stdint.h>
